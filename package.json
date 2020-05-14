@@ -1,0 +1,37 @@
+{
+  "name": "elecbits",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-chart": "^2.6.2",
+    "@devexpress/dx-react-chart-bootstrap4": "^2.6.2",
+    "@devexpress/dx-react-chart-material-ui": "^2.6.2",
+    "@devexpress/dx-react-core": "^2.6.2",
+    "bootstrap": "^4.5.0",
+    "font-awesome": "4.7.0",
+    "mdbreact": "^4.26.1",
+    "react-scripts": "^3.4.1",
+    "reactstrap": "5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
