@@ -7,7 +7,7 @@ This web page has been created using <b>create-react-app</b>.</br>
    <li>React Framework</li>
    <li>Bootstrap 4 </li>
   <ul>
-    
+    <br/>
 <b>OUTPUT</b>
 
 <img src="https://github.com/gauravragini/Elecbits-frontend-test/blob/master/public/assets/images/output1.png" height="500px" width="800px">
